@@ -1,0 +1,648 @@
+house_rent_price,house_type,house_size,year_built,district,number_of_rooms,number_of_bathrooms,gated,presence_of_amenities,proximity_to_main_roads
+400,Villa,325,12,Yaqshid,7,3,No,No,Very Close
+300,Villa,290,8,Yaqshid,6,3,Yes,No,Close
+500,Apartment,110,4,Hodan,3,2,Yes,No,Very Close
+250,Villa,290,25,Yaqshid,5,3,No,No,Very Close
+200,Villa,275,6,Deynile,5,2,No,No,Close
+720,Apartment,125,2,Waberi,5,6,No,No,Very Close
+450,Apartment,150,4,Hodan,3,2,Yes,No,Close
+350,Apartment,100,5,Waberi,3,2,No,No,Very Close
+500,Villa,275,15,Hodan,5,3,No,No,Close
+600,Apartment,100,2,Waberi,2,1,Yes,Yes,Very Close
+350,Apartment,87.5,2,Wadajir,2,1,Yes,Yes,Very Close
+800,Apartment,115,8,Wadajir,4,3,Yes,Yes,Very Close
+180,Apartment,80,2,Waberi,1,1,No,No,Very Close
+350,Apartment,92.5,6,Waberi,2,2,Yes,No,Very Close
+100,Villa,250,1,Kahda,3,1,Yes,No,Very Close
+350,Villa,325,10,Waberi,5,2,No,No,Close
+300,Villa,225,5,Howlwadag,3,2,No,No,Close
+450,Apartment,100,8,Wadajir,3,2,No,No,Very Close
+560,Apartment,110,5,Hodan,4,3,No,Yes,Close
+350,Villa,275,6,Deynile,5,2,No,No,Very Close
+300,Villa,300,1,Dharkenley,5,2,No,No,Very Close
+450,Apartment,100,8,Wadajir,3,2,No,No,Very Close
+150,Apartment,115,3,Deynile,4,2,No,No,Close
+200,Villa,225,9,Yaqshid,5,2,No,Yes,Close
+200,Villa,275,6,Deynile,5,2,No,No,Close
+300,Villa,325,19,Dharkenley,7,3,No,No,Very Close
+150,Apartment,115,3,Deynile,4,2,No,No,Close
+566,Villa,350,2,Hodan,7,4,Yes,Yes,Far away
+260,Villa,275,7,Yaqshid,5,3,No,No,Close
+300,Apartment,105,15,Waberi,3,1,No,No,Very Close
+100,Villa,325,9,Wartanabada,6,4,No,No,Very Close
+250,Villa,325,16,Deynile,5,3,No,No,Close
+400,Villa,350,12,Yaqshid,7,3,No,No,Very Close
+300,Villa,300,1,Yaqshid,5,3,No,No,Close
+300,Apartment,120,2,Wartanabada,5,2,No,No,Very Close
+300,Villa,325,7,Deynile,6,3,No,No,Close
+800,Villa,290,15,Yaqshid,5,3,No,Yes,Very Close
+600,Apartment,105,5,Wartanabada,5,3,No,Yes,Very Close
+455,Apartment,180,32,Hodan,3,2,Yes,Yes,Very Close
+600,Apartment,100,25,Wadajir,3,2,Yes,Yes,Close
+380,Villa,275,3,Deynile,4,3,No,Yes,Close
+400,Villa,300,12,Howlwadag,4,2,No,No,Close
+700,Villa,325,25,Howlwadag,8,5,No,Yes,Very Close
+250,Villa,250,5,Kahda,5,3,No,No,Close
+300,Villa,300,36,Hilwa,5,3,No,Yes,Close
+500,Villa,300,7,Yaqshid,5,3,No,No,Far away
+300,Villa,325,19,Dharkenley,7,3,No,No,Very Close
+400,Apartment,110,7,Shibis,4,2,Yes,Yes,Very Close
+350,Villa,250,22,Waberi,4,2,No,No,Very Close
+400,Villa,300,2,Kahda,5,2,Yes,Yes,Close
+150,Apartment,115,3,Deynile,4,2,No,No,Close
+250,Apartment,100,6,Waberi,3,2,No,No,Very Close
+550,Apartment,175,4,Wadajir,2,2,Yes,Yes,Very Close
+430,Villa,275,1,Deynile,5,2,No,No,Close
+400,Villa,270,7,Hodan,4,2,Yes,No,Close
+250,Villa,250,5,Kahda,5,3,No,No,Close
+350,Other,350,5,Yaqshid,6,2,No,No,Close
+500,Apartment,125,8,Hodan,4,3,No,No,Far away
+180,Apartment,80,2,Waberi,1,1,No,No,Very Close
+300,Villa,325,7,Deynile,6,3,No,No,Close
+200,Villa,225,1,Deynile,5,2,No,Yes,Very Close
+300,Villa,300,10,Yaqshid,5,2,No,No,Close
+250,Apartment,220,5,Yaqshid,3,2,No,No,Very Close
+250,Apartment,290,25,Yaqshid,5,2,No,No,Very Close
+350,Villa,325,13,Wadajir,7,2,No,No,Close
+150,Villa,325,4,Deynile,6,2,No,No,Close
+300,Apartment,100,2,Hamar Jajab,3,2,No,No,Close
+400,Apartment,180,10,Hodan,3,2,No,No,Very Close
+380,Villa,275,3,Deynile,4,3,No,Yes,Close
+555,Apartment,250,5,Hodan,4,3,No,Yes,Close
+360,Apartment,95,2,Hamar Jajab,3,1,Yes,No,Very Close
+300,Villa,290,10,Yaqshid,5,3,Yes,No,Very Close
+250,Villa,225,7,Dharkenley,5,2,No,No,Close
+300,Villa,300,7,Wartanabada,5,2,No,No,Close
+150,Villa,325,4,Deynile,6,2,No,No,Close
+300,Villa,300,1,Dharkenley,7,2,No,No,Close
+350,Apartment,92.5,6,Waberi,2,2,Yes,No,Very Close
+250,Villa,300,3,Wadajir,6,3,No,No,Very Close
+400,Villa,250,12,Hodan,5,2,No,No,Close
+400,Villa,250,5,Hodan,4,1,No,No,Far away
+200,Apartment,200,25,Yaqshid,4,2,No,No,Very Close
+400,Apartment,180,10,Hodan,3,2,No,No,Very Close
+350,Villa,250,25,Hodan,4,2,No,No,Close
+450,Villa,250,27,Waberi,4,2,No,No,Close
+300,Villa,320,8,Yaqshid,6,3,No,No,Close
+450,Villa,275,21,Wartanabada,5,3,No,No,Close
+350,Villa,325,7,Howlwadag,6,2,No,No,Very Close
+100,Villa,325,9,Wartanabada,6,4,No,No,Very Close
+300,Villa,300,1,Dharkenley,7,2,No,No,Close
+600,Apartment,100,25,Wadajir,3,2,Yes,Yes,Close
+300,Villa,325,9,Wartanabada,6,2,Yes,No,Close
+300,Villa,300,1,Dharkenley,5,2,No,No,Very Close
+300,Villa,325,21,Wartanabada,6,2,No,No,Close
+100,Villa,325,9,Wartanabada,6,4,No,No,Very Close
+400,Villa,250,5,Hodan,4,3,No,No,Far away
+350,Other,360,29,Yaqshid,7,3,No,No,Close
+750,Apartment,100,4,Waberi,3,2,Yes,No,Very Close
+400,Apartment,250,3,Yaqshid,4,2,No,Yes,Close
+300,Villa,300,36,Hilwa,5,3,No,Yes,Close
+400,Villa,300,2,Kahda,5,2,Yes,Yes,Close
+750,Apartment,100,4,Waberi,3,2,Yes,No,Very Close
+300,Villa,300,7,Wartanabada,5,2,No,No,Close
+300,Villa,320,10,Yaqshid,5,2,No,No,Close
+300,Apartment,95,15,Waberi,3,1,No,No,Close
+300,Villa,290,1,Yaqshid,5,2,No,No,Close
+500,Apartment,1115,3,Hodan,4,2,Yes,Yes,Very Close
+150,Villa,250,23,Dharkenley,5,2,No,No,Very Close
+400,Apartment,110,7,Shibis,4,2,Yes,Yes,Very Close
+100,Other,95,13,Deynile,7,1,No,No,Close
+250,Villa,225,5,Wartanabada,4,1,No,No,Very Close
+350,Apartment,100,5,Hamar Jajab,3,2,No,No,Close
+500,Apartment,95,2,Waberi,3,1,Yes,Yes,Close
+450,Apartment,150,3,Hodan,3,2,Yes,Yes,Very Close
+400,Villa,225,5,Hodan,3,2,No,No,Close
+600,Apartment,100,2,Waberi,2,1,Yes,Yes,Very Close
+100,Other,95,13,Deynile,7,1,No,No,Close
+350,Apartment,100,5,Hamar Jajab,3,2,No,No,Close
+400,Apartment,250,1,Wartanabada,5,3,Yes,Yes,Close
+450,Villa,250,27,Waberi,4,2,No,No,Close
+300,Apartment,100,5,Shibis,3,2,Yes,Yes,Very Close
+300,Apartment,100,5,Wadajir,3,2,Yes,No,Far away
+100,Other,95,13,Deynile,7,1,No,No,Close
+300,Villa,325,7,Deynile,6,3,No,No,Close
+350,Other,320,29,Yaqshid,7,3,No,No,Close
+220,Other,275,1,Deynile,5,2,No,No,Very Close
+200,Villa,300,26,Wartanabada,5,2,No,No,Close
+555,Apartment,110,5,Hodan,4,3,No,Yes,Close
+350,Villa,325,10,Waberi,5,2,No,No,Close
+100,Villa,250,1,Kahda,3,1,Yes,No,Very Close
+250,Villa,325,16,Deynile,5,3,No,No,Close
+350,Villa,325,10,Waberi,5,2,No,No,Close
+450,Apartment,115,3,Wartanabada,4,2,No,Yes,Close
+455,Apartment,150,32,Hodan,3,2,Yes,Yes,Very Close
+420,Apartment,102.5,1,Hodan,3,2,No,Yes,Very Close
+800,Villa,320,6,Yaqshid,5,3,No,Yes,Very Close
+179,Villa,275,25,Deynile,5,2,No,No,Close
+800,Apartment,115,8,Wadajir,4,3,Yes,Yes,Very Close
+150,Villa,325,4,Deynile,6,2,No,No,Close
+200,Villa,300,26,Wartanabada,5,2,No,No,Close
+300,Villa,275,10,Yaqshid,5,3,Yes,No,Very Close
+800,Villa,320,15,Yaqshid,5,3,No,Yes,Very Close
+350,Apartment,100,5,Waberi,3,2,No,No,Very Close
+300,Villa,290,8,Yaqshid,6,3,Yes,No,Close
+400,Apartment,105,4,Wadajir,2,1,Yes,Yes,Close
+500,Apartment,100,2,Wadajir,3,2,Yes,Yes,Very Close
+400,Apartment,200,1,Wartanabada,4,2,Yes,Yes,Close
+200,Villa,275,11,Hilwa,5,2,No,No,Close
+250,Apartment,100,6,Waberi,3,2,No,No,Very Close
+500,Apartment,120,8,Waberi,5,2,No,No,Close
+500,Villa,325,25,Howlwadag,6,3,No,Yes,Very Close
+200,Villa,300,26,Wartanabada,5,2,No,No,Close
+400,Villa,300,12,Howlwadag,4,2,No,No,Close
+360,Apartment,95,2,Hamar Jajab,3,1,Yes,No,Very Close
+200,Villa,250,4,Howlwadag,4,1,No,No,Far away
+250,Apartment,250,5,Yaqshid,3,2,No,No,Very Close
+500,Apartment,120,8,Waberi,5,2,No,No,Close
+300,Villa,250,28,Wartanabada,5,2,No,No,Close
+500,Apartment,120,8,Waberi,5,2,No,No,Close
+500,Apartment,590,4,Wadajir,5,2,No,No,Very Close
+600,Apartment,100,1,Wadajir,3,2,Yes,Yes,Very Close
+350,Apartment,320,4,Yaqshid,5,3,Yes,Yes,Very Close
+800,Villa,320,15,Yaqshid,5,3,No,No,Very Close
+100,Other,95,13,Deynile,7,1,No,No,Close
+566,Villa,350,2,Hodan,7,4,Yes,Yes,Far away
+450,Apartment,115,3,Wartanabada,4,2,No,Yes,Close
+500,Villa,250,7,Hilwa,9,3,No,Yes,Far away
+500,Villa,250,7,Hilwa,9,3,No,Yes,Far away
+400,Apartment,90,1,Wartanabada,5,2,Yes,Yes,Close
+720,Apartment,125,2,Waberi,5,6,No,No,Very Close
+260,Villa,290,25,Yaqshid,5,3,No,No,Very Close
+200,Villa,300,9,Yaqshid,5,2,No,Yes,Close
+300,Villa,275,9,Dharkenley,6,3,No,No,Close
+500,Villa,250,7,Hilwa,9,3,No,Yes,Far away
+420,Apartment,102.5,1,Hodan,3,2,No,Yes,Very Close
+300,Apartment,120,2,Wartanabada,5,2,No,No,Very Close
+400,Apartment,290,3,Yaqshid,4,2,No,Yes,Close
+450,Villa,250,15,Hodan,4,3,No,No,Close
+500,Apartment,590,4,Wadajir,5,2,No,No,Very Close
+300,Apartment,100,2,Hamar Jajab,3,2,No,No,Close
+500,Apartment,190,8,Hodan,4,3,No,No,Far away
+350,Villa,325,13,Wadajir,7,2,No,No,Close
+500,Apartment,110,8,Deynile,5,2,No,Yes,Close
+300,Apartment,95,15,Waberi,3,1,No,No,Close
+150,Villa,250,23,Dharkenley,5,2,No,No,Very Close
+250,Apartment,100,6,Waberi,3,2,No,No,Very Close
+500,Villa,300,7,Yaqshid,5,3,No,Yes,Far away
+200,Villa,225,1,Dharkenley,5,1,No,No,Close
+250,Villa,325,16,Deynile,5,3,No,No,Close
+300,Villa,300,5,Deynile,5,2,Yes,No,Very Close
+400,Villa,325,45,Wadajir,6,1,Yes,Yes,Close
+500,Villa,330,7,Yaqshid,5,3,No,Yes,Far away
+400,Villa,325,45,Wadajir,6,1,Yes,Yes,Close
+500,Apartment,120,6,Waberi,4,2,No,Yes,Very Close
+105,Villa,250,7,Hodan,6,3,No,No,Far away
+300,Apartment,300,25,Yaqshid,5,2,No,No,Very Close
+400,Villa,300,23,Yaqshid,5,3,No,No,Close
+200,Villa,300,3,Wartanabada,5,1,No,No,Close
+200,Villa,250,4,Howlwadag,4,1,No,No,Far away
+100,Other,95,13,Deynile,7,1,No,No,Close
+300,Apartment,100,5,Shibis,3,2,Yes,Yes,Very Close
+720,Apartment,125,2,Waberi,5,6,No,No,Very Close
+550,Apartment,175,4,Wadajir,2,2,Yes,Yes,Very Close
+500,Villa,325,17,Hodan,6,3,No,No,Close
+300,Apartment,120,2,Wartanabada,5,2,No,No,Very Close
+700,Other,325,6,Yaqshid,6,3,No,No,Close
+100,Villa,250,1,Kahda,3,1,Yes,No,Very Close
+250,Villa,225,5,Wartanabada,4,1,No,No,Very Close
+400,Villa,325,10,Deynile,6,2,Yes,Yes,Close
+400,Apartment,90,1,Wartanabada,4,2,Yes,Yes,Close
+250,Villa,275,7,Yaqshid,5,3,No,No,Close
+350,Villa,275,6,Deynile,5,2,No,No,Very Close
+350,Villa,325,13,Wadajir,7,2,No,No,Close
+350,Villa,250,12,Hodan,5,2,No,No,Close
+450,Villa,275,21,Wartanabada,5,3,No,No,Close
+250,Villa,300,8,Deynile,6,3,No,No,Very Close
+500,Apartment,110,8,Deynile,5,2,No,Yes,Close
+450,Apartment,100,2,Shibis,3,2,No,Yes,Close
+250,Apartment,100,6,Waberi,3,2,No,No,Very Close
+350,Villa,290,12,Hodan,5,2,No,No,Close
+300,Apartment,100,5,Shibis,3,2,Yes,Yes,Very Close
+220,Other,275,1,Deynile,5,2,No,No,Very Close
+300,Villa,325,19,Dharkenley,7,3,No,No,Very Close
+450,Apartment,102.5,5,Hamar Jajab,3,2,Yes,Yes,Very Close
+300,Villa,325,7,Deynile,6,3,No,No,Close
+555,Apartment,250,5,Hodan,4,2,No,Yes,Close
+300,Villa,290,1,Yaqshid,5,2,No,No,Close
+750,Apartment,100,4,Waberi,3,2,Yes,No,Very Close
+350,Apartment,100,5,Waberi,3,2,No,No,Very Close
+700,Other,350,6,Yaqshid,6,3,No,No,Close
+700,Apartment,250,4,Hodan,3,3,Yes,Yes,Very Close
+350,Villa,325,7,Howlwadag,6,2,No,No,Very Close
+450,Apartment,100,8,Wadajir,3,2,No,No,Very Close
+400,Villa,325,15,Waberi,5,2,No,No,Close
+380,Villa,275,3,Deynile,4,3,No,Yes,Close
+100,Villa,250,7,Hodan,6,3,No,No,Far away
+350,Villa,225,7,Wadajir,5,2,No,No,Far away
+400,Villa,325,10,Deynile,6,2,Yes,Yes,Close
+250,Villa,300,8,Deynile,6,3,No,No,Very Close
+300,Apartment,100,2,Hamar Jajab,3,2,No,No,Close
+380,Villa,275,3,Deynile,4,3,No,Yes,Close
+350,Other,325,8,Hodan,5,2,No,No,Very Close
+350,Apartment,97.5,5,Waberi,3,2,No,No,Very Close
+180,Apartment,80,2,Waberi,1,1,No,No,Very Close
+300,Apartment,105,15,Waberi,3,1,No,No,Very Close
+300,Apartment,300,25,Yaqshid,6,3,No,No,Very Close
+355,Villa,250,35,Wadajir,4,1,No,No,Close
+300,Villa,325,19,Dharkenley,7,3,No,No,Very Close
+500,Villa,250,7,Hilwa,9,3,No,Yes,Far away
+500,Villa,250,7,Hilwa,9,3,No,Yes,Far away
+600,Apartment,115,3,Wadajir,5,2,Yes,Yes,Very Close
+450,Apartment,170,3,Hodan,3,2,Yes,Yes,Very Close
+300,Villa,320,8,Yaqshid,6,3,Yes,No,Close
+450,Apartment,115,3,Wartanabada,4,2,No,Yes,Close
+300,Other,259,8,Hodan,5,2,No,No,Very Close
+700,Apartment,160,4,Hodan,3,3,Yes,Yes,Very Close
+220,Other,275,20,Deynile,4,2,No,No,Very Close
+450,Apartment,100,2,Shibis,3,2,No,Yes,Close
+450,Apartment,100,2,Shibis,3,2,No,Yes,Close
+300,Villa,300,36,Hilwa,5,3,No,Yes,Close
+250,Villa,300,8,Deynile,6,3,No,No,Very Close
+450,Villa,300,10,Wartanabada,5,2,No,No,Close
+450,Apartment,100,2,Shibis,3,2,No,Yes,Close
+500,Apartment,110,8,Deynile,5,2,No,Yes,Close
+400,Villa,225,5,Hodan,3,2,No,No,Close
+400,Villa,275,6,Wartanabada,5,2,No,Yes,Close
+250,Villa,325,3,Dharkenley,6,2,No,Yes,Close
+350,Villa,250,22,Waberi,4,2,No,No,Very Close
+566,Villa,380,2,Hodan,7,4,No,No,Far away
+200,Villa,275,25,Yaqshid,5,3,No,No,Very Close
+400,Villa,325,6,Waberi,5,2,No,No,Close
+150,Other,285,1,Yaqshid,5,2,No,No,Close
+200,Villa,275,24,Deynile,5,3,No,No,Very Close
+445,Apartment,130,3,Hodan,2,1,Yes,Yes,Very Close
+300,Villa,300,1,Dharkenley,7,2,No,No,Close
+400,Villa,325,45,Wadajir,6,1,Yes,Yes,Close
+350,Apartment,97.5,5,Waberi,3,2,No,No,Very Close
+200,Villa,275,11,Hilwa,5,2,No,No,Close
+300,Villa,300,5,Dharkenley,5,3,No,No,Very Close
+350,Villa,250,25,Hodan,4,2,No,No,Close
+400,Villa,225,7,Hodan,4,1,Yes,No,Close
+300,Villa,290,1,Yaqshid,5,2,No,No,Close
+200,Villa,250,4,Howlwadag,4,1,No,No,Far away
+450,Apartment,102.5,5,Hamar Jajab,3,2,Yes,Yes,Very Close
+200,Villa,225,1,Dharkenley,5,1,No,No,Close
+300,Apartment,120,2,Wartanabada,5,2,No,No,Very Close
+300,Apartment,100,5,Wadajir,3,2,Yes,No,Far away
+400,Villa,325,10,Deynile,6,2,Yes,Yes,Close
+350,Apartment,100,5,Waberi,3,2,No,No,Very Close
+400,Apartment,85,35,Hodan,2,1,Yes,Yes,Very Close
+350,Villa,250,25,Hodan,4,2,No,No,Close
+220,Other,275,1,Deynile,5,2,No,No,Very Close
+350,Villa,225,7,Wadajir,5,2,No,No,Far away
+250,Villa,300,3,Wadajir,6,3,No,No,Very Close
+250,Villa,225,7,Dharkenley,5,2,No,No,Close
+300,Villa,325,9,Wartanabada,6,2,Yes,No,Close
+350,Villa,225,7,Wadajir,5,2,No,No,Far away
+300,Villa,115,3,Deynile,6,3,No,Yes,Very Close
+450,Villa,250,27,Waberi,4,2,No,No,Close
+150,Apartment,115,3,Deynile,4,2,No,No,Close
+300,Villa,300,5,Yaqshid,6,3,No,No,Close
+500,Villa,325,17,Hodan,6,3,No,No,Close
+500,Apartment,100,2,Wadajir,3,2,Yes,Yes,Very Close
+550,Villa,280,15,Hodan,5,4,No,No,Close
+430,Villa,275,1,Deynile,5,2,No,No,Close
+250,Villa,325,3,Dharkenley,6,2,No,Yes,Close
+400,Villa,325,45,Wadajir,6,1,Yes,Yes,Close
+300,Apartment,100,5,Shibis,3,2,Yes,Yes,Very Close
+300,Apartment,100,5,Wadajir,3,2,Yes,No,Far away
+800,Villa,320,6,Yaqshid,5,3,No,Yes,Very Close
+500,Villa,300,4,Howlwadag,6,3,Yes,Yes,Very Close
+500,Apartment,110,8,Deynile,5,2,No,Yes,Close
+350,Villa,225,7,Wadajir,5,2,No,No,Far away
+300,Villa,115,3,Deynile,6,3,No,Yes,Very Close
+450,Villa,300,10,Wartanabada,5,2,No,No,Close
+500,Apartment,110,8,Deynile,5,2,No,Yes,Close
+450,Apartment,102.5,5,Hamar Jajab,3,2,Yes,Yes,Very Close
+400,Villa,320,23,Yaqshid,5,3,No,No,Close
+500,Apartment,120,8,Waberi,5,2,No,No,Close
+300,Villa,225,5,Howlwadag,3,2,No,No,Close
+555,Apartment,110,5,Hodan,4,4,No,Yes,Close
+350,Villa,250,12,Hodan,5,2,No,No,Close
+300,Villa,325,9,Wartanabada,6,2,Yes,No,Close
+400,Villa,275,6,Wartanabada,5,2,No,Yes,Close
+350,Apartment,310,4,Yaqshid,5,3,Yes,Yes,Very Close
+450,Apartment,100,1,Wadajir,3,2,Yes,Yes,Very Close
+450,Apartment,100,8,Wadajir,3,2,No,No,Very Close
+450,Apartment,100,2,Shibis,3,2,No,Yes,Close
+400,Villa,225,7,Hodan,4,2,Yes,No,Close
+300,Villa,290,10,Yaqshid,5,3,Yes,No,Very Close
+200,Villa,225,1,Dharkenley,5,1,No,No,Close
+355,Villa,250,12,Hodan,5,2,No,No,Close
+300,Villa,250,5,Yaqshid,5,2,Yes,No,Close
+400,Villa,275,6,Wartanabada,5,2,No,Yes,Close
+700,Other,325,6,Yaqshid,6,3,No,No,Close
+400,Villa,325,15,Waberi,5,2,No,No,Close
+150,Other,350,5,Yaqshid,6,2,No,No,Close
+200,Villa,275,7,Yaqshid,3,2,No,No,Close
+300,Villa,275,10,Yaqshid,5,2,No,No,Close
+800,Apartment,115,8,Wadajir,4,3,Yes,Yes,Very Close
+300,Villa,310,5,Yaqshid,6,3,No,No,Close
+260,Apartment,290,25,Yaqshid,5,3,No,No,Very Close
+450,Villa,325,6,Hilwa,7,3,No,No,Very Close
+450,Apartment,100,1,Wadajir,3,2,Yes,Yes,Very Close
+500,Apartment,120,6,Waberi,4,2,No,Yes,Very Close
+350,Apartment,100,5,Hamar Jajab,3,2,No,No,Close
+700,Other,325,6,Yaqshid,6,3,No,No,Close
+400,Apartment,100,40,Wadajir,3,2,No,No,Far away
+300,Villa,300,8,Yaqshid,6,3,Yes,No,Close
+200,Villa,275,11,Hilwa,5,2,No,No,Close
+200,Villa,275,11,Hilwa,5,2,No,No,Close
+400,Apartment,100,40,Wadajir,3,2,No,No,Far away
+500,Villa,300,4,Howlwadag,6,3,Yes,Yes,Very Close
+450,Apartment,115,3,Wartanabada,4,2,No,Yes,Close
+250,Apartment,190,5,Yaqshid,3,2,Yes,No,Very Close
+350,Villa,325,7,Howlwadag,6,2,No,No,Very Close
+400,Villa,325,45,Wadajir,6,1,Yes,Yes,Close
+200,Villa,225,1,Dharkenley,5,1,No,No,Close
+200,Villa,275,6,Deynile,5,2,No,No,Close
+600,Apartment,100,1,Wadajir,3,2,Yes,Yes,Very Close
+350,Villa,225,7,Wadajir,5,2,No,No,Far away
+450,Villa,325,6,Hilwa,7,3,No,No,Very Close
+445,Apartment,90,3,Hodan,2,1,Yes,Yes,Very Close
+300,Apartment,120,2,Wartanabada,5,2,No,No,Very Close
+300,Apartment,100,2,Hamar Jajab,3,2,No,No,Close
+300,Villa,300,1,Dharkenley,5,2,No,No,Very Close
+350,Villa,250,12,Hodan,5,2,No,No,Close
+450,Villa,300,10,Wartanabada,5,2,No,No,Close
+600,Apartment,105,5,Wartanabada,9,4,No,Yes,Very Close
+100,Other,95,13,Deynile,7,1,No,No,Close
+300,Apartment,100,2,Hamar Jajab,3,2,No,No,Close
+420,Apartment,102.5,1,Hodan,3,2,No,Yes,Very Close
+450,Villa,250,7,Hodan,5,3,Yes,No,Close
+350,Apartment,92.5,6,Waberi,2,2,Yes,No,Very Close
+360,Apartment,95,2,Hamar Jajab,3,1,Yes,No,Very Close
+250,Villa,225,7,Dharkenley,5,2,No,No,Close
+430,Villa,275,1,Deynile,5,2,No,No,Close
+400,Apartment,115,2,Hodan,4,2,Yes,No,Very Close
+400,Villa,225,7,Hodan,4,2,Yes,No,Close
+350,Other,340,29,Yaqshid,5,2,No,No,Close
+300,Villa,325,19,Dharkenley,7,3,No,No,Very Close
+555,Apartment,250,5,Hodan,4,3,No,Yes,Close
+430,Villa,275,1,Deynile,5,2,No,No,Close
+400,Apartment,105,4,Wadajir,2,1,Yes,Yes,Close
+420,Apartment,102.5,1,Hodan,3,2,No,Yes,Very Close
+350,Villa,325,7,Howlwadag,6,2,No,No,Very Close
+450,Apartment,115,3,Wartanabada,4,2,No,Yes,Close
+300,Villa,300,5,Hilwa,9,4,No,No,Far away
+300,Villa,300,1,Dharkenley,5,2,No,No,Very Close
+1000,Apartment,250,4,Hodan,5,3,Yes,Yes,Very Close
+350,Apartment,100,5,Waberi,3,2,No,No,Very Close
+400,Villa,300,2,Kahda,5,2,Yes,Yes,Close
+500,Apartment,100,2,Wadajir,3,2,Yes,Yes,Very Close
+350,Villa,390,7,Hodan,6,3,No,No,Far away
+550,Apartment,175,4,Wadajir,2,2,Yes,Yes,Very Close
+400,Villa,325,6,Waberi,5,2,No,No,Close
+250,Villa,320,7,Yaqshid,5,3,No,No,Close
+450,Villa,325,1,Hodan,5,2,No,No,Close
+400,Apartment,150,10,Hodan,3,2,No,No,Very Close
+270,Apartment,320,25,Yaqshid,6,3,No,No,Very Close
+500,Apartment,590,4,Wadajir,6,3,No,No,Very Close
+600,Apartment,105,5,Wartanabada,6,3,No,Yes,Very Close
+250,Villa,250,5,Wadajir,4,2,No,No,Close
+400,Villa,360,12,Yaqshid,7,3,No,No,Very Close
+350,Apartment,92.5,6,Waberi,2,2,Yes,No,Very Close
+600,Apartment,100,1,Wadajir,3,2,Yes,Yes,Very Close
+750,Apartment,100,4,Waberi,3,2,Yes,No,Very Close
+250,Villa,310,25,Yaqshid,5,3,No,No,Very Close
+400,Villa,300,23,Yaqshid,5,2,No,No,Close
+300,Apartment,95,15,Waberi,3,1,No,No,Close
+400,Apartment,120,35,Hodan,2,1,Yes,Yes,Very Close
+200,Villa,300,3,Wartanabada,5,1,No,No,Close
+750,Apartment,100,4,Waberi,3,2,Yes,No,Very Close
+300,Apartment,100,5,Shibis,3,2,Yes,Yes,Very Close
+400,Villa,290,23,Yaqshid,5,3,No,No,Close
+300,Villa,325,9,Wartanabada,6,2,Yes,No,Close
+700,Apartment,125,4,Hodan,3,3,Yes,Yes,Very Close
+400,Villa,330,23,Yaqshid,5,2,No,No,Close
+400,Villa,225,23,Wartanabada,5,3,No,No,Very Close
+550,Other,325,6,Yaqshid,6,3,No,No,Close
+500,Apartment,110,8,Deynile,5,2,No,Yes,Close
+300,Apartment,100,35,Hodan,2,1,Yes,Yes,Very Close
+400,Villa,270,18,Hodan,5,2,No,No,Very Close
+250,Villa,325,7,Yaqshid,7,3,No,No,Very Close
+500,Villa,325,7,Deynile,8,4,Yes,No,Close
+350,Villa,325,10,Waberi,5,2,No,No,Close
+555,Apartment,280,5,Hodan,4,3,No,Yes,Close
+250,Villa,325,16,Deynile,5,3,No,No,Close
+300,Villa,300,7,Wartanabada,5,2,No,No,Close
+300,Villa,300,5,Dharkenley,5,3,No,No,Very Close
+200,Villa,275,7,Yaqshid,5,3,No,No,Close
+220,Other,275,1,Deynile,5,2,No,No,Very Close
+350,Apartment,260,25,Yaqshid,4,2,No,No,Very Close
+250,Villa,250,5,Kahda,5,3,No,No,Close
+500,Villa,325,17,Hodan,6,3,No,No,Close
+200,Villa,300,7,Yaqshid,5,3,No,No,Close
+720,Apartment,125,2,Waberi,5,6,No,No,Very Close
+355,Villa,250,35,Wadajir,4,1,No,No,Close
+450,Apartment,100,2,Shibis,3,2,No,Yes,Close
+300,Apartment,120,2,Wartanabada,5,2,No,No,Very Close
+300,Villa,300,1,Dharkenley,7,2,No,No,Close
+200,Villa,225,1,Deynile,5,2,No,Yes,Very Close
+700,Other,350,6,Yaqshid,6,2,No,No,Close
+300,Apartment,120,2,Wartanabada,5,2,No,No,Very Close
+180,Apartment,80,2,Waberi,1,1,No,No,Very Close
+179,Villa,275,25,Deynile,5,2,No,No,Close
+750,Apartment,100,4,Waberi,3,2,Yes,No,Very Close
+300,Other,175,8,Hodan,5,2,No,No,Very Close
+400,Villa,225,23,Wartanabada,5,3,No,No,Very Close
+250,Villa,300,3,Wadajir,6,3,No,No,Very Close
+500,Villa,300,9,Hodan,5,3,No,No,Close
+400,Villa,225,23,Wartanabada,5,3,No,No,Very Close
+450,Apartment,115,3,Wartanabada,4,2,No,Yes,Close
+220,Other,275,1,Deynile,5,2,No,No,Very Close
+150,Villa,250,23,Dharkenley,5,2,No,No,Very Close
+300,Apartment,100,2,Hamar Jajab,3,2,No,No,Close
+400,Villa,325,10,Deynile,6,2,Yes,Yes,Close
+400,Villa,300,2,Kahda,5,2,Yes,Yes,Close
+195,Other,230,17,Bondhere,4,2,No,No,Far away
+200,Other,240,17,Bondhere,4,2,No,No,Very Close
+230,Other,260,19,Bondhere,5,3,No,No,Very Close
+230,Other,260,19,Bondhere,5,3,No,No,Very Close
+230,Other,260,19,Bondhere,5,3,No,No,Very Close
+230,Other,260,19,Bondhere,5,3,No,No,Very Close
+195,Other,230,17,Bondhere,4,2,No,No,Far away
+195,Other,230,17,Bondhere,4,2,No,No,Far away
+200,Other,240,17,Bondhere,4,2,No,No,Very Close
+230,Other,260,19,Bondhere,5,3,No,No,Very Close
+180,Villa,180,17,Bondhere,3,2,No,No,Close
+180,Villa,180,17,Bondhere,3,2,No,No,Close
+250,Villa,220,15,Bondhere,4,2,No,No,Close
+180,Villa,180,17,Bondhere,3,2,No,No,Close
+250,Villa,220,15,Bondhere,4,2,No,No,Close
+250,Villa,220,15,Bondhere,4,2,No,No,Close
+260,Villa,230,16,Bondhere,5,3,No,No,Far away
+150,Villa,170,25,Bondhere,3,1,No,No,Far away
+260,Villa,230,16,Bondhere,5,3,No,No,Far away
+250,Villa,220,15,Bondhere,4,2,No,No,Close
+150,Other,200,24,Dharkenley,5,2,No,No,Close
+160,Other,200,22,Dharkenley,4,1,No,No,Far away
+160,Other,200,22,Dharkenley,4,1,No,No,Far away
+190,Other,240,20,Dharkenley,4,2,No,No,Very Close
+190,Other,240,20,Dharkenley,4,2,No,No,Very Close
+150,Other,200,24,Dharkenley,5,2,No,No,Close
+190,Other,240,20,Dharkenley,4,2,No,No,Very Close
+170,Other,250,16,Dharkenley,4,2,No,No,Far away
+150,Other,200,24,Dharkenley,5,2,No,No,Close
+170,Other,250,16,Dharkenley,4,2,No,No,Far away
+290,Other,390,2,Hamar Jajab,5,3,No,No,Very Close
+200,Other,360,19,Hamar Jajab,6,2,No,No,Close
+200,Other,360,19,Hamar Jajab,6,2,No,No,Close
+200,Other,360,19,Hamar Jajab,6,2,No,No,Close
+280,Other,250,10,Hamar Jajab,5,2,No,No,Very Close
+290,Other,390,2,Hamar Jajab,5,3,No,No,Very Close
+290,Other,390,2,Hamar Jajab,5,3,No,No,Very Close
+290,Other,390,2,Hamar Jajab,5,3,No,No,Very Close
+260,Other,240,11,Hamar Jajab,4,1,No,No,Far away
+200,Other,360,19,Hamar Jajab,6,2,No,No,Close
+250,Villa,200,10,Hamar Jajab,3,2,No,No,Very Close
+250,Villa,200,10,Hamar Jajab,3,2,No,No,Very Close
+290,Villa,280,16,Hamar Jajab,3,2,No,No,Very Close
+250,Villa,200,10,Hamar Jajab,3,2,No,No,Very Close
+290,Villa,280,16,Hamar Jajab,3,2,No,No,Very Close
+300,Villa,220,15,Hamar Jajab,4,2,No,No,Far away
+300,Villa,220,15,Hamar Jajab,4,2,No,No,Far away
+250,Villa,200,10,Hamar Jajab,3,2,No,No,Very Close
+250,Villa,200,10,Hamar Jajab,3,2,No,No,Very Close
+300,Villa,220,15,Hamar Jajab,4,2,No,No,Far away
+220,Apartment,220,3,Hilwa,4,2,No,Yes,Very Close
+150,Apartment,195,4,Hilwa,3,2,No,No,Far away
+150,Apartment,200,5,Hilwa,3,2,No,No,Far away
+130,Apartment,150,3,Hilwa,2,1,No,Yes,Close
+260,Apartment,240,3,Hilwa,5,2,No,Yes,Very Close
+150,Apartment,195,4,Hilwa,3,2,No,No,Far away
+150,Apartment,200,5,Hilwa,3,2,No,No,Far away
+220,Apartment,220,3,Hilwa,4,2,No,Yes,Very Close
+130,Apartment,150,3,Hilwa,2,1,No,Yes,Close
+220,Apartment,220,3,Hilwa,4,2,No,Yes,Very Close
+120,Other,250,11,Hilwa,4,2,No,No,Close
+120,Other,250,11,Hilwa,4,2,No,No,Close
+200,Other,340,5,Hilwa,5,2,No,No,Far away
+100,Other,210,4,Hilwa,3,1,No,No,Close
+100,Other,210,4,Hilwa,3,1,No,No,Close
+100,Other,210,4,Hilwa,3,1,No,No,Close
+180,Other,260,4,Hilwa,4,2,No,No,Close
+180,Other,260,4,Hilwa,4,2,No,No,Close
+120,Other,250,11,Hilwa,4,2,No,No,Close
+120,Other,250,11,Hilwa,4,2,No,No,Close
+250,Other,250,16,Hodan,5,2,No,No,Close
+225,Other,230,15,Hodan,4,1,No,No,Very Close
+225,Other,230,15,Hodan,4,1,No,No,Very Close
+230,Other,240,17,Hodan,4,2,No,No,Far away
+230,Other,240,17,Hodan,4,2,No,No,Far away
+250,Other,250,16,Hodan,5,2,No,No,Close
+230,Other,240,17,Hodan,4,2,No,No,Far away
+250,Other,250,16,Hodan,5,2,No,No,Close
+230,Other,240,17,Hodan,4,2,No,No,Far away
+230,Other,240,17,Hodan,4,2,No,No,Far away
+170,Other,190,23,Howlwadag,4,2,No,No,Far away
+170,Other,190,23,Howlwadag,4,2,No,No,Far away
+170,Other,190,23,Howlwadag,4,2,No,No,Far away
+180,Other,190,17,Howlwadag,4,2,No,No,Far away
+170,Other,190,23,Howlwadag,4,2,No,No,Far away
+200,Other,210,21,Howlwadag,5,2,No,No,Close
+200,Other,210,21,Howlwadag,5,2,No,No,Close
+170,Other,190,23,Howlwadag,4,2,No,No,Far away
+170,Other,190,23,Howlwadag,4,2,No,No,Far away
+170,Other,190,23,Howlwadag,4,2,No,No,Far away
+110,Apartment,150,4,Kahda,2,1,No,No,Very Close
+200,Apartment,210,3,Kahda,4,2,No,No,Close
+110,Apartment,150,4,Kahda,2,1,No,No,Very Close
+250,Apartment,230,3,Kahda,5,2,No,No,Close
+150,Apartment,190,2,Kahda,3,2,No,No,Close
+150,Apartment,190,2,Kahda,3,2,No,No,Close
+150,Apartment,190,2,Kahda,3,2,No,No,Close
+110,Apartment,150,4,Kahda,2,1,No,No,Very Close
+250,Apartment,240,5,Kahda,5,2,No,No,Very Close
+110,Apartment,150,4,Kahda,2,1,No,No,Very Close
+140,Other,200,11,Kahda,5,2,No,No,Close
+100,Other,190,15,Kahda,4,1,No,No,Far away
+140,Other,200,11,Kahda,5,2,No,No,Close
+150,Other,200,12,Kahda,4,1,No,No,Far away
+150,Other,200,12,Kahda,4,1,No,No,Far away
+160,Other,250,9,Kahda,5,2,No,No,Very Close
+140,Other,200,11,Kahda,5,2,No,No,Close
+160,Other,250,9,Kahda,5,2,No,No,Very Close
+100,Other,190,15,Kahda,4,1,No,No,Far away
+150,Other,200,12,Kahda,4,1,No,No,Far away
+250,Other,280,10,Shibis,5,2,No,No,Very Close
+210,Other,250,12,Shibis,4,1,No,No,Far away
+180,Other,200,15,Shibis,4,1,No,No,Far away
+250,Other,280,10,Shibis,5,2,No,No,Very Close
+180,Other,200,15,Shibis,4,1,No,No,Far away
+185,Other,190,16,Shibis,4,1,No,No,Very Close
+150,Other,180,20,Shibis,4,2,No,No,Close
+250,Other,280,10,Shibis,5,2,No,No,Very Close
+210,Other,250,12,Shibis,4,1,No,No,Far away
+250,Other,280,10,Shibis,5,2,No,No,Very Close
+190,Villa,250,15,Shibis,4,1,No,No,Far away
+150,Villa,240,25,Shibis,4,1,No,No,Far away
+250,Villa,270,11,Shibis,5,2,No,No,Very Close
+185,Villa,230,11,Shibis,3,2,No,No,Very Close
+190,Villa,250,15,Shibis,4,1,No,No,Far away
+200,Villa,260,15,Shibis,4,2,No,No,Very Close
+185,Villa,230,11,Shibis,3,2,No,No,Very Close
+250,Villa,270,11,Shibis,5,2,No,No,Very Close
+250,Villa,270,11,Shibis,5,2,No,No,Very Close
+190,Villa,250,15,Shibis,4,1,No,No,Far away
+230,Other,250,21,Wadajir,5,2,No,No,Very Close
+200,Other,230,23,Wadajir,4,2,No,No,Far away
+200,Other,230,23,Wadajir,4,2,No,No,Far away
+190,Other,190,20,Wadajir,4,1,No,No,Close
+200,Other,200,22,Wadajir,4,2,No,No,Far away
+230,Other,250,21,Wadajir,5,2,No,No,Very Close
+230,Other,250,21,Wadajir,5,2,No,No,Very Close
+190,Other,190,20,Wadajir,4,1,No,No,Close
+230,Other,250,21,Wadajir,5,2,No,No,Very Close
+230,Other,250,21,Wadajir,5,2,No,No,Very Close
+300,Apartment,115,8,Bondhere,5,2,No,No,Very Close
+350,Apartment,100,1,Bondhere,3,2,No,No,Close
+300,Apartment,97.5,3,Bondhere,3,2,No,Yes,Very Close
+350,Apartment,100,1,Bondhere,3,2,No,No,Close
+300,Apartment,115,8,Bondhere,5,2,No,No,Very Close
+300,Apartment,115,8,Bondhere,5,2,No,No,Very Close
+380,Apartment,100,1,Bondhere,3,2,No,No,Close
+350,Apartment,100,1,Bondhere,3,2,No,No,Close
+350,Apartment,100,1,Bondhere,3,2,No,No,Close
+300,Apartment,115,8,Bondhere,5,2,No,No,Very Close
+250,Apartment,97.5,3,Dharkenley,3,1,No,No,Close
+250,Apartment,97.5,3,Dharkenley,3,1,No,No,Close
+250,Apartment,97.5,3,Dharkenley,3,1,No,No,Close
+230,Apartment,100,2,Dharkenley,3,2,No,No,Very Close
+250,Apartment,97.5,3,Dharkenley,3,1,No,No,Close
+230,Apartment,100,2,Dharkenley,3,2,No,No,Very Close
+250,Apartment,97.5,3,Dharkenley,3,1,No,No,Close
+250,Apartment,97.5,3,Dharkenley,3,1,No,No,Close
+250,Apartment,97.5,3,Dharkenley,3,1,No,No,Close
+250,Apartment,97.5,3,Dharkenley,3,1,No,No,Close
+250,Apartment,95,1,Howlwadag,2,1,No,No,Close
+500,Apartment,100,5,Howlwadag,4,2,Yes,No,Close
+250,Apartment,250,7,Howlwadag,3,1,No,No,Far away
+500,Apartment,100,5,Howlwadag,4,2,Yes,No,Close
+500,Apartment,100,5,Howlwadag,4,2,Yes,No,Close
+250,Apartment,250,7,Howlwadag,3,1,No,No,Far away
+260,Apartment,100,1,Howlwadag,2,2,Yes,No,Close
+250,Apartment,95,1,Howlwadag,2,1,No,No,Close
+260,Apartment,100,1,Howlwadag,2,2,Yes,No,Close
+250,Apartment,250,7,Howlwadag,3,1,No,No,Far away
+455,Other,325,5,Waberi,5,1,Yes,Yes,Close
+455,Other,325,5,Waberi,5,1,Yes,Yes,Close
+455,Other,325,5,Waberi,5,1,Yes,Yes,Close
+455,Other,325,5,Waberi,5,1,Yes,Yes,Close
+260,Other,325,18,Waberi,8,4,No,No,Very Close
+500,Other,325,18,Waberi,7,3,No,No,Very Close
+250,Other,325,18,Waberi,8,4,No,No,Very Close
+250,Other,325,18,Waberi,8,4,No,No,Very Close
+260,Other,325,18,Waberi,8,4,No,No,Very Close
+455,Other,325,5,Waberi,5,1,Yes,Yes,Close
+100,Other,75,7,Wartanabada,2,1,No,No,Close
+250,Other,200,50,Wartanabada,5,1,No,No,Very Close
+250,Other,200,50,Wartanabada,5,1,No,No,Very Close
+250,Other,200,50,Wartanabada,5,1,No,No,Very Close
+100,Other,75,7,Wartanabada,2,1,No,No,Close
+250,Other,200,50,Wartanabada,5,1,No,No,Very Close
+100,Other,75,7,Wartanabada,2,1,No,No,Close
+100,Other,75,7,Wartanabada,2,1,No,No,Close
+100,Other,75,7,Wartanabada,2,1,No,No,Close
+100,Other,75,7,Wartanabada,2,1,No,No,Close
