@@ -76,9 +76,45 @@ modelsummary(
   gof_omit = "AIC|BIC|Log.Lik"
 ) 
 
+
+
+
+## Modelling structure for the aticle
+
+base_model <- lm(log_house_rent ~ Sqm, data = rent_df_clean)
+
+struc_model <- model_four <- lm(log_house_rent ~ Sqm + NoR + NoB + YR , 
+                                data = rent_df_clean)
+
+charact_model <- lm(log_house_rent ~ Sqm + NoR + NoB+ YR +  HT + GTD , data = rent_df_clean)
+
+amen_model <- lm(log_house_rent ~ Sqm + NoR + NoB+ YR +  HT + GTD + AMN, data = rent_df_clean)
+
+
+full_model <- lm(log_house_rent ~ Sqm + NoR + NoB+ YR + HT + GTD + AMN, 
+                 DST + PMR,
+                 data = rent_df_clean)
+
+
+list_two <- list(
+  "M0 Baseline" = base_model,
+  "M1 Structure" = struc_model,
+  "M2 Characteristics" = charact_model,
+  "M3 Amenities" = amen_model,
+  "Full Model" =  full_model
+)
+
+modelsummary(
+  list_two,
+  statistic = "({std.error})", 
+  stars = c("*" = .1, "**" = .05, "***" = .01),
+  gof_omit = "AIC|BIC|Log.Lik",
+  fmt = 4
+) 
+
 # Display detailed summary of the most complex model
 summary(model_ten)
-
+summary(full_model)
 ## Checking Assumptions
 
 # Homoscedasticity test using Breusch-Pagan test
