@@ -6,6 +6,7 @@ library(broom)  # Convert statistical models into tidy format
 library(sandwich)  # Robust covariance matrix estimators
 library(sf)  # Handling spatial data
 library(ggspatial)  # Spatial data visualization
+library(tseries)
 
 
 # Set working directory (modify the path as needed)
@@ -38,6 +39,37 @@ rent_df_clean |>
                        names = c("variable", "statistic")) |> 
   pivot_wider(names_from = statistic, values_from = value)
 
+
+
+
+# Counting the frequency of different house types (HT) in the dataset and calculating the percentage of each type
+rent_df_clean |> 
+  count(HT) |>   # Count the occurrences of each house type (HT)
+  mutate(percentage = n/sum(n))  # Add a new column 'percentage' that calculates the proportion of each house type
+
+# Counting the frequency of houses with amenities (AMN) and calculating the percentage of houses with/without amenities
+rent_df_clean |> 
+  count(AMN) |>   # Count the occurrences of amenities (AMN)
+  mutate(percentage = n/sum(n))  # Add a new column 'percentage' that calculates the proportion of houses with amenities
+
+## Jarque-Bera tests to check the normality of various variables
+
+# Performing the Jarque-Bera test for normality on the house rent price
+jarque.bera.test(rent_df$house_rent_price)
+
+# Performing the Jarque-Bera test for normality on the house size
+jarque.bera.test(rent_df$house_size)
+
+# Performing the Jarque-Bera test for normality on the number of rooms in the house
+jarque.bera.test(rent_df$number_of_rooms)
+
+# Performing the Jarque-Bera test for normality on the number of bathrooms in the house
+jarque.bera.test(rent_df$number_of_bathrooms)
+
+# Performing the Jarque-Bera test for normality on the year the house was built
+jarque.bera.test(rent_df$year_built)
+
+
 ## Modelling the Data
 rent_df_clean <- rent_df_clean |> 
   mutate(log_house_rent = log(house_rent_price))  # Log transform rent price
@@ -45,14 +77,14 @@ rent_df_clean <- rent_df_clean |>
 # Create multiple regression models with increasing complexity
 model_one <- lm(log_house_rent ~ Sqm, data = rent_df_clean)
 model_two <- lm(log_house_rent ~ Sqm + NoR, data = rent_df_clean)
-model_three <- lm(log_house_rent ~ Sqm + NoR, data = rent_df_clean)
-model_four <- lm(log_house_rent ~ Sqm + NoR + NoB , data = rent_df_clean)
-model_five <- lm(log_house_rent ~ Sqm + NoR + NoB + HT , data = rent_df_clean)
-model_six <- lm(log_house_rent ~ Sqm + NoR + NoB+ HT + AMN , data = rent_df_clean)
-model_seven <- lm(log_house_rent ~ Sqm + NoR + NoB + HT + AMN + GTD, data = rent_df_clean)
-model_eight <- lm(log_house_rent ~ Sqm + NoR + NoB + HT + AMN + GTD + YR , data = rent_df_clean)
-model_nine <- lm(log_house_rent ~ Sqm + NoR + NoB + HT + AMN + GTD + YR + DST, data = rent_df_clean)
-model_ten <- lm(log_house_rent ~ Sqm + NoR + NoB + HT + AMN + GTD + YR + DST + PMR, data = rent_df_clean)
+model_three <- lm(log_house_rent ~ Sqm + NoR + NoB, data = rent_df_clean)
+model_four <- lm(log_house_rent ~ Sqm + NoR + NoB + YR , data = rent_df_clean)
+model_five <- lm(log_house_rent ~ Sqm + NoR + NoB + YR + HT , data = rent_df_clean)
+model_six <- lm(log_house_rent ~ Sqm + NoR + NoB+ YR +  HT + AMN  , data = rent_df_clean)
+model_seven <- lm(log_house_rent ~ Sqm + NoR + NoB + YR + HT + AMN + GTD , data = rent_df_clean)
+model_eight <- lm(log_house_rent ~ Sqm + NoR + NoB + YR + HT + AMN + GTD + DST , data = rent_df_clean)
+model_nine <- lm(log_house_rent ~ Sqm + NoR + NoB + HT + AMN + GTD + YR + DST + PMR, data = rent_df_clean)
+
 
 # Store models in a list for summary generation
 model_list <- list(
@@ -64,8 +96,7 @@ model_list <- list(
   "6" = model_six,
   "7" = model_seven,
   "8" = model_eight,
-  "9" = model_nine,
-  "10" = model_ten
+  "9" = model_nine
 )
 
 # Generate model summary with significance stars and standard errors
@@ -76,6 +107,8 @@ modelsummary(
   gof_omit = "AIC|BIC|Log.Lik"
 ) 
 
+# Display detailed summary of the most complex model
+summary(model_nine)
 
 
 
@@ -113,7 +146,6 @@ modelsummary(
 ) 
 
 # Display detailed summary of the most complex model
-summary(model_ten)
 summary(full_model)
 ## Checking Assumptions
 
